@@ -1,0 +1,12 @@
+[submodule "components/esp32cam/esp32cam"]
+	path = components/esp32cam/esp32cam
+	url = https://github.com/yoursunny/esp32cam
+[submodule "components/ESPAsyncWebServer"]
+	path = components/ESPAsyncWebServer
+	url = https://github.com/esphome/ESPAsyncWebServer.git
+[submodule "components/AsyncTCP"]
+	path = components/AsyncTCP
+	url = https://github.com/esphome/AsyncTCP.git
+[submodule "components/arduino-esp32"]
+	path = components/arduino-esp32
+	url = https://github.com/espressif/arduino-esp32.git
